@@ -12,7 +12,6 @@ $kostentraining = 0;
 if(!empty ($lid)){
     $voornaam = $lid["voornaam"];
     $achternaam = $lid["achternaam"];
-    $lidid = $lid["lidid"];
     $geboortedatum = $lid["geboortedatum"];
     $aanhef = $lid["aanhef"];
     $postcode = $lid["postcode"];
